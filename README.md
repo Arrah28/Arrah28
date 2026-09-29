@@ -1,6 +1,6 @@
 # Hi, I'm Arif Rahman
 
-**Final-year BSc Cloud Engineering student (Coventry University, London) · graduating June 2027 · looking for graduate Cloud / DevOps / Platform Engineering roles in London.**
+**Final-year BSc Cloud Engineering student (Coventry University) · graduating June 2027 · looking for graduate Tach roles.**
 
 I build things on AWS and write up what I learned along the way. Everything here is hands-on: infrastructure I've actually provisioned, containers I've actually shipped, and the mistakes I made getting there.
 
