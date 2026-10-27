@@ -1,12 +1,12 @@
 # Hi, I'm Arif Rahman
 
-**Final-year BSc Cloud Engineering student (Coventry University) · graduating June 2027 · looking for graduate Tach roles.**
+**Final-year BSc Cloud Engineering student (Coventry University) · graduating June 2027 · looking for graduate cloud, DevOps and platform roles.**
 
 I build things on AWS and write up what I learned along the way. Everything here is hands-on: infrastructure I've actually provisioned, containers I've actually shipped, and the mistakes I made getting there.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-arifr.com-0A66C2?style=flat-square)](https://arifr.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Arif%20Rahman-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/arif-rahman-7615ba293)
-[![Email](https://img.shields.io/badge/Email-arahman281103%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:arahman281103@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Arif%20Rahman-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/arif-rahmann/)
+[![Email](https://img.shields.io/badge/Email-a.rahman28%40outlook.com-0078D4?style=flat-square&logo=microsoftoutlook&logoColor=white)](mailto:a.rahman28@outlook.com)
 
 ---
 
@@ -38,7 +38,9 @@ I build things on AWS and write up what I learned along the way. Everything here
 ## Currently
 
 - Final year of BSc Cloud Engineering at Coventry University, including my dissertation project.
+- DevOps Engineering Trainee at CoderCo (Terraform, GitHub Actions pipelines, Docker on Kubernetes) alongside the degree.
+- Studying for AWS Certified Solutions Architect – Associate (SAA-C03).
 - Building on the projects above with more Terraform, Kubernetes and CI/CD work.
 - Open to graduate and junior roles in London (Birmingham also considered). British citizen, no sponsorship required.
 
-If you're hiring for a cloud, DevOps or platform engineering graduate role, I'd love to hear from you: **arahman281103@gmail.com**.
+If you're hiring for a cloud, DevOps or platform engineering graduate role, I'd love to hear from you: **a.rahman28@outlook.com**. Every project is written up with an architecture diagram and evidence at **[arifr.com](https://arifr.com)**.
